@@ -1,6 +1,6 @@
 # <center>등산을 사랑하는 당신을 위한 서비스, 산타</center>
 ---
-![스크린샷_2024-05-11_오전_3.31.03](/uploads/1ef2a348ba3cbc13164aab11751061f2/스크린샷_2024-05-11_오전_3.31.03.png)
+![산타 서비스 메인 사진](https://private-user-images.githubusercontent.com/124546770/365633826-4d37a264-accb-4934-860c-5cc59a919871.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4ODMwMTUsIm5iZiI6MTcyNTg4MjcxNSwicGF0aCI6Ii8xMjQ1NDY3NzAvMzY1NjMzODI2LTRkMzdhMjY0LWFjY2ItNDkzNC04NjBjLTVjYzU5YTkxOTg3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwOVQxMTUxNTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMWMwYzM2YmFmNzA2MjcxMzcyMTk2ZGQ3ZDE1ZWYzY2FkZDUxZTY3OTkxYWViZTc5Yzc4MGZkZWQzMDcyNDg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.lhhRum0KB3Qb-M0teYjSiloY3jX5H2BMRPDAfViUcmI)
 - 산타
 - 등산을 좋아하는 사람을 위한 모임 서비스
 
@@ -17,47 +17,34 @@
 
 ## 프로젝트 구조 및 아키텍처
 ---
-![스크린샷_2024-05-11_오전_3.36.30](/uploads/71aea802f6dfa5b7f075ac997e9b6268/스크린샷_2024-05-11_오전_3.36.30.png)
+![아키텍처](https://private-user-images.githubusercontent.com/124546770/365635724-a2598ba4-f67f-47d5-97f6-ce89bb488783.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4ODMwMzEsIm5iZiI6MTcyNTg4MjczMSwicGF0aCI6Ii8xMjQ1NDY3NzAvMzY1NjM1NzI0LWEyNTk4YmE0LWY2N2YtNDdkNS05N2Y2LWNlODliYjQ4ODc4My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwOVQxMTUyMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iODM2MzM2ODU0MGQxYWQ5ZThjODc2YzdlY2VkNWE0YzYzNmY1YjM4ZmQ2YjkzMWM3Njk0YmExZDg4OWE3MTg4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.xi-Nx1Y1ZhNFZ5iKlLt1bCsPJ0CW0Jwz4mVW9uDBzIo)
 
 ## ERD
 ---
-![스크린샷_2024-05-11_오전_3.39.04](/uploads/82e034565814eda95f48849f43cbd125/스크린샷_2024-05-11_오전_3.39.04.png)
+![산타 erd](https://private-user-images.githubusercontent.com/124546770/365635620-1bcc6119-712a-4411-b5c5-ef77fcd48ec7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4ODMwNzYsIm5iZiI6MTcyNTg4Mjc3NiwicGF0aCI6Ii8xMjQ1NDY3NzAvMzY1NjM1NjIwLTFiY2M2MTE5LTcxMmEtNDQxMS1iNWM1LWVmNzdmY2Q0OGVjNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwOVQxMTUyNTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NTFlMDdmOTUxNTAwZTM3NTAxMzA1NjEwYWEzMzc3NzM5YWI4Yjk0YzIxOWJjNzg3MjMzZDVhNzZkMzMzZjUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.CMzJmDBcwY0du4Bnfm7O_1uSsJ3RpVJ4NLRrGhQ1em0)
 
 ## 플로우차트
 ---
-![스크린샷_2024-05-11_오전_3.41.00](/uploads/aef3a700a86ae7adb3e6ec9057c1cecb/스크린샷_2024-05-11_오전_3.41.00.png)
+![산타 플로우차트](https://private-user-images.githubusercontent.com/124546770/365636301-19200757-9905-457a-9be5-eb8177c53b3c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4ODMxMTQsIm5iZiI6MTcyNTg4MjgxNCwicGF0aCI6Ii8xMjQ1NDY3NzAvMzY1NjM2MzAxLTE5MjAwNzU3LTk5MDUtNDU3YS05YmU1LWViODE3N2M1M2IzYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwOVQxMTUzMzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOTdhZGIxYTYxZjU3ODczMzIyMDVmZGFjYWFjYjdkMzgwMWUzZTg3YThiNzJkZWFiYTc5YTQ0MDAyZjE3NGRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.txpitaQiYUm4QUiSOC97v-n7j6hHuKgo-jMx03doP78)
 
 ## 와이어프레임
 ---
-![스크린샷_2024-05-11_오전_3.42.31](/uploads/266b50cc2fd2ba0b7b83a39d57243507/스크린샷_2024-05-11_오전_3.42.31.png)
+![산타 와이어프레임](https://private-user-images.githubusercontent.com/124546770/365635292-03502676-d56b-4c95-a895-e2c1ffa21f70.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4ODMxNDIsIm5iZiI6MTcyNTg4Mjg0MiwicGF0aCI6Ii8xMjQ1NDY3NzAvMzY1NjM1MjkyLTAzNTAyNjc2LWQ1NmItNGM5NS1hODk1LWUyYzFmZmEyMWY3MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwOVQxMTU0MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jY2FlZGI5NWU4ODkzZmQ3YTcxODgyNDY3ZmZkNDRmMDkwYjYyNDllZTg5NzE0Yjg3MzBmYjQ4MDg4YWU2ZGI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.clLZm9oC5qMPLql8WPBKhzy5D_C6eLjkjma5vDo36Eo)
 
 ## 세부 기술스텍
 ---
 프론트엔드
-> - 타입스크립트
-> - Redux 상태관리
-> - SCSS
+<img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/> <img alt="TanStack Query" src ="https://img.shields.io/badge/TanStack Query-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white"/> <img alt="gitlab" src ="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> <img alt="sass" src ="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/> <img alt="reacthookform" src ="https://img.shields.io/badge/reacthookform-EC5990.svg?&style=for-the-badge&logo=reacthookform&logoColor=white"/>
 
 <br/>
 
 백엔드
-> - JAVA
->    - OpenJDK 17
-> - Spring Boot 3.2.4
->    - Spring Web 3.2.4
->    - Spring Data JPA 3.2.4
->    - Spring Data Redis 3.2.4
->    - Spring mail 3.2.4
->    - Spring Security 3.2.4
-> - JUnit5
-> - MySQL 8
+<img alt="springboot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/> <img alt="springsecurity" src ="https://img.shields.io/badge/springsecurity-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/> <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="postman" src ="https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/> 
 
 <br/>
 
 서버
-> - Docker
-> - NginX
-> - AWS(EC2, S3, ElastiCache)
+<img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="nginx" src ="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> <img alt="jenkins" src ="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/> <img alt="amazon aws" src ="https://img.shields.io/badge/amazon aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/> <img alt="amazon ec2" src ="https://img.shields.io/badge/amazon ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white"/> <img alt="amazonelasticache" src ="https://img.shields.io/badge/amazon elasticache-C925D1.svg?&style=for-the-badge&logo=amazonelasticache&logoColor=white"/>
 
 <br/>
 <img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/> <img alt="TanStack Query" src ="https://img.shields.io/badge/TanStack Query-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white"/>, 
